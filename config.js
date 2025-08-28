@@ -1,19 +1,17 @@
 const CONFIG = {
-    introTitle: 'Chào Em!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Chào Thu Hoài',
+    introDesc: `Trên Trời Thì Có Mây
+    Dưới Hầm Cá Tra Thì Có Cutws=))`,
     btnIntro: 'Hụ Hụ',
-    title: 'Nếu một ngày đó anh bảo chúng ta quay lại liệu em có đồng ý😙',
-    desc: 'Phải chăng lúc đấy anh không ngốc nghếch mà bỏ em thì hay biết mấy',
-    btnYes: 'Chắc Chắn Là Có Rùi <33',
-    btnNo: 'Không, Em Không Đồng Ý:3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Chúc Em Ngủ Ngon🫰.',
-    btnAccept: 'Okiiiii <3',
-    messLink: 'https://m.me/chuotxyzabc' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    title: 'Mày có thích a Gia Huy, Thành Đạt, Thái Nguyên không hay thích Anh Nguyên ',
+    desc: 'Hãy chọn 1 cái đi',
+    btnYes: 'Tao Thích Chơi với 3 Anh Đó <33',
+    btnNo: 'Tao Thích Chơi Với Mày Hơn:3',
+    question:'Trên thế giới hơn 7 tỉ người Mà Sao Lại Cho 3 Anh Đó <3',
+    btnReply: 'Gửi cho anh Nguyên rằng mày không thích Nguyên <3',
+    reply: ' Tao Không Thích Chơi Với Mày Đâu Xoá Kêt Bạn Đi',
+    mess: 'Thôi có gì đâu,tao biết mà',
+    messDesc: 'Tạm Biệt.',
+    btnAccept: 'Ừ.',
+    messLink: 'https://m.me/ngtamnguyen99' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
