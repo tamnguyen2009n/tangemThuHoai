@@ -8,7 +8,7 @@ const CONFIG = {
     btnYes: 'Tao Thích Chơi với 3 Anh Đó <33',
     btnNo: 'Tao Thích Chơi Với Mày Hơn:3',
     question:'Trên thế giới hơn 7 tỉ người Mà Sao Lại Cho 3 Anh Đó <3',
-    btnReply: 'Gửi cho anh Nguyên rằng mày không thích Nguyên <3',
+    btnReply: 'Gửi cho Nguyên biết là Hoài không chơi với mày <3',
     reply: ' Tao Không Thích Chơi Với Mày Đâu',
     mess: 'Thôi có gì đâu,tao biết mà',
     messDesc: 'Tạm Biệt.',
